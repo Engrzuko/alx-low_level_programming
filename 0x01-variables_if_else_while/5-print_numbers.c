@@ -1,5 +1,5 @@
 #include <stdio>
-#include <stdlib>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - Writing numbers
