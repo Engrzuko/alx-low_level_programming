@@ -6,7 +6,7 @@
  * Return: 1 if true, 0 if false
  */
 int _isdigit(int c)
-{
+{	
 	for (c = 0; c < 9; c++)
 	{
 		if (c == 9)
