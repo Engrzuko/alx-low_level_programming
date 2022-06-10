@@ -1,1 +1,1 @@
-This repository is for learning as a beginne
+This repository is for learning as a beginnerr
