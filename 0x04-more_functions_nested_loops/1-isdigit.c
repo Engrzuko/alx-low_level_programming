@@ -1,17 +1,15 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * _isdigit - checks for a digit
- * @c: the character to evaluate
- * Return: 1 if true, 0 if false
+ * _isdigit - function
+ *
+ * @c: parameter
+ *
+ * Return: return value
  */
 int _isdigit(int c)
 {
-	for (c = 0; c <  9; c++)
-	{
-		if (c == 9)
-		_putchar(c);
+	if (c >= 0 && c <= 9)
 		return (1);
-	}
-	return (0);
+	else
+		return (0);
 }
